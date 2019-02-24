@@ -1,0 +1,104 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sanity" parallel="tests">
+    <test name="Sanity">
+        <classes>
+            <class name="Sanity.LoginTest" />
+        </classes>
+    </test>
+    <test name="Sanity1">
+        <classes>
+            <class name="Sanity.LoginTest1" />
+        </classes>
+    </test>
+    <test name="Sanity2">
+        <classes>
+            <class name="Sanity.LoginTest2" />
+        </classes>
+    </test>
+    <test name="Sanity3">
+        <classes>
+            <class name="Sanity.LoginTest3" />
+        </classes>
+    </test>
+    <test name="Sanity4">
+        <classes>
+            <class name="Sanity.LoginTest4" />
+        </classes>
+    </test>
+    <test name="Sanity5">
+        <classes>
+            <class name="Sanity.LoginTest5" />
+        </classes>
+    </test>
+    <test name="Sanity6">
+        <classes>
+            <class name="Sanity.LoginTest6" />
+        </classes>
+    </test>
+    <test name="Sanity7">
+        <classes>
+            <class name="Sanity.LoginTest7" />
+        </classes>
+    </test>
+    <test name="Sanity8">
+        <classes>
+            <class name="Sanity.LoginTest8" />
+        </classes>
+    </test>
+    <test name="Sanity9">
+        <classes>
+            <class name="Sanity.LoginTest9" />
+        </classes>
+    </test>
+        <test name="Sanity10">
+        <classes>
+            <class name="Sanity.LoginTest10" />
+        </classes>
+    </test>
+    <test name="Sanity11">
+        <classes>
+            <class name="Sanity.LoginTest11" />
+        </classes>
+    </test>
+    <test name="Sanity12">
+        <classes>
+            <class name="Sanity.LoginTest12" />
+        </classes>
+    </test>
+    <test name="Sanity13">
+        <classes>
+            <class name="Sanity.LoginTest13" />
+        </classes>
+    </test>
+    <test name="Sanity14">
+        <classes>
+            <class name="Sanity.LoginTest14" />
+        </classes>
+    </test>
+    <test name="Sanity15">
+        <classes>
+            <class name="Sanity.LoginTest15" />
+        </classes>
+    </test>
+    <test name="Sanity16">
+        <classes>
+            <class name="Sanity.LoginTest16" />
+        </classes>
+    </test>
+    <test name="Sanity17">
+        <classes>
+            <class name="Sanity.LoginTest17" />
+        </classes>
+    </test>
+    <test name="Sanity18">
+        <classes>
+            <class name="Sanity.LoginTest18" />
+        </classes>
+    </test>
+    <test name="Sanity19">
+        <classes>
+            <class name="Sanity.LoginTest19" />
+        </classes>
+    </test>
+ 
+</suite>
