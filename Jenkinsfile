@@ -1,6 +1,10 @@
 pipeline {
     agent none
     stages {
+        stage('Initialize'){
+            def dockerHome = tool 'IlanDocker'
+            env.PATH = "${dockerHome}/bin:${env.PATH}"
+        }
         stage('Build ilan Jar') {
             agent {
                 docker {
