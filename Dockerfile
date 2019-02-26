@@ -1,7 +1,5 @@
 FROM openjdk:8u191-jre-alpine3.9
 
-RUN apk add curl jq
-
 # workspace
 WORKDIR /usr/share/Artlist
 
