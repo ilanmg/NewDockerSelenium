@@ -19,6 +19,6 @@ ADD healthcheck.sh                      healthcheck.sh
 #BROWSER
 #HUB_HOST
 #MODULE
-ENTRYPOINT sh healthcheck.sh
+ENTRYPOINT java -cp selenium-docker.jar;selenium-docker-tests.jar;libs/* -DHUB_HOST=10.0.75.1 org.testng.TestNG $MODULE
 
 
