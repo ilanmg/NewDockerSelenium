@@ -19,6 +19,6 @@ ADD healthcheck.sh                      healthcheck.sh
 #BROWSER
 #HUB_HOST
 #MODULE
-ENTRYPOINT healthcheck.sh
+ENTRYPOINT sh healthcheck.sh
 
 
