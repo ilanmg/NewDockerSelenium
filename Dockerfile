@@ -1,9 +1,11 @@
 FROM openjdk:8u191-jre-alpine3.9
 
-RUN apk add curl jq
-
 # workspace
 WORKDIR /usr/share/Artlist
+
+RUN apk add curl jq
+
+
 
 #ADD .jar under target from host into this image
 ADD target/selenium-docker.jar          selenium-docker.jar
