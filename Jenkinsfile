@@ -1,5 +1,8 @@
 pipeline {
     agent none
+    tools {
+        maven 'M3'
+      }
     stages {
         stage('Build ilan Jar') {
             agent {
