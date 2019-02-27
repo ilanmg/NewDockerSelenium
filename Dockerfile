@@ -3,13 +3,12 @@ FROM openjdk:8u191-jre-alpine3.9
 RUN apk add curl jq
 
 # workspace
-WORKDIR /usr/share/Artlist/
+WORKDIR /usr/share/Artlist
 
 #ADD .jar under target from host into this image
 ADD target/selenium-docker.jar          selenium-docker.jar
 ADD target/selenium-docker-tests.jar    selenium-docker-tests.jar
 ADD target/libs                         libs 
-ADD target/healthcheck.sh               healthcheck.sh
 
 #add suite files
 ADD Sanity.xml                          Sanity.xml
