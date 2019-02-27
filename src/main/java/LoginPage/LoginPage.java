@@ -57,7 +57,7 @@ public class LoginPage{
     }
     
     public void goTo(){
-        this.driver.get("https://artlist-api-deployment-slot-api.azurewebsites.net/ ");
+        this.driver.get("https://artlist.io/");
     }
 
 	public void setfullNameBtn(String fullname) {
