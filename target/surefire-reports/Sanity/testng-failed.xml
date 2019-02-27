@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Sanity]" parallel="tests">
+  <test thread-count="5" verbose="0" name="Sanity5(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest5">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest5 -->
+    </classes>
+  </test> <!-- Sanity5(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity3(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest3">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest3 -->
+    </classes>
+  </test> <!-- Sanity3(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity4(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest4">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest4 -->
+    </classes>
+  </test> <!-- Sanity4(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity2(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest2">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest2 -->
+    </classes>
+  </test> <!-- Sanity2(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity1(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest1">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest1 -->
+    </classes>
+  </test> <!-- Sanity1(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity7(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest7">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest7 -->
+    </classes>
+  </test> <!-- Sanity7(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity6(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest6">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest6 -->
+    </classes>
+  </test> <!-- Sanity6(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity9(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest9">
+        <methods>
+          <include name="log__in"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest9 -->
+    </classes>
+  </test> <!-- Sanity9(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity10(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest10">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest10 -->
+    </classes>
+  </test> <!-- Sanity10(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity8(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest8">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest8 -->
+    </classes>
+  </test> <!-- Sanity8(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity14(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest14">
+        <methods>
+          <include name="log__in"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest14 -->
+    </classes>
+  </test> <!-- Sanity14(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity15(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest15">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest15 -->
+    </classes>
+  </test> <!-- Sanity15(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity13(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest13">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest13 -->
+    </classes>
+  </test> <!-- Sanity13(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity12(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest12">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest12 -->
+    </classes>
+  </test> <!-- Sanity12(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity11(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest11">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest11 -->
+    </classes>
+  </test> <!-- Sanity11(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity16(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest16">
+        <methods>
+          <include name="log__in"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest16 -->
+    </classes>
+  </test> <!-- Sanity16(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity18(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest18">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="log__in"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest18 -->
+    </classes>
+  </test> <!-- Sanity18(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity17(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest17">
+        <methods>
+          <include name="log__in"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest17 -->
+    </classes>
+  </test> <!-- Sanity17(failed) -->
+  <test thread-count="5" verbose="0" name="Sanity19(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest19">
+        <methods>
+          <include name="log__in"/>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest19 -->
+    </classes>
+  </test> <!-- Sanity19(failed) -->
+</suite> <!-- Failed suite [Sanity] -->
