@@ -51,50 +51,6 @@
             <class name="Sanity.LoginTest10" />
         </classes>
     </test>
-    <test name="Sanity11">
-        <classes>
-            <class name="Sanity.LoginTest11" />
-        </classes>
-    </test>
-    <test name="Sanity12">
-        <classes>
-            <class name="Sanity.LoginTest12" />
-        </classes>
-    </test>
-    <test name="Sanity13">
-        <classes>
-            <class name="Sanity.LoginTest13" />
-        </classes>
-    </test>
-    <test name="Sanity14">
-        <classes>
-            <class name="Sanity.LoginTest14" />
-        </classes>
-    </test>
-    <test name="Sanity15">
-        <classes>
-            <class name="Sanity.LoginTest15" />
-        </classes>
-    </test>
-    <test name="Sanity16">
-        <classes>
-            <class name="Sanity.LoginTest16" />
-        </classes>
-    </test>
-    <test name="Sanity17">
-        <classes>
-            <class name="Sanity.LoginTest17" />
-        </classes>
-    </test>
-    <test name="Sanity18">
-        <classes>
-            <class name="Sanity.LoginTest18" />
-        </classes>
-    </test>
-    <test name="Sanity19">
-        <classes>
-            <class name="Sanity.LoginTest19" />
-        </classes>
-    </test>
+
  
 </suite>
