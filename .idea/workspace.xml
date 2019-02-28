@@ -2,7 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe3b9012-3fc5-4bfa-a5d4-71efb3bce03f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity1.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity10.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity2.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity3.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity4.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity5.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity6.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity7.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity8.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity9.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/Sanity/Sanity9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/Sanity/Sanity9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/junitreports/TEST-Sanity.LoginTest9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity10.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity10.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity3.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity3.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity4.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity5.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity5.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity6.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity6.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity7.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity7.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity8.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity8.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/Sanity9.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/Sanity9.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/old/Sanity/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/old/Sanity/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-result/testng-results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,13 +71,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sanity.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="833">
               <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -42,10 +87,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -62,13 +125,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/healthcheck.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hub</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -145,12 +212,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551280742060" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551280872310" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -279,7 +347,8 @@
       <option name="presentableId" value="Default" />
       <updated>1551005474302</updated>
       <workItem from="1551005478105" duration="59093000" />
-      <workItem from="1551262739149" duration="11068000" />
+      <workItem from="1551262739149" duration="11986000" />
+      <workItem from="1551289358728" duration="863000" />
     </task>
     <servers />
   </component>
@@ -313,7 +382,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70161000" />
+    <option name="totallyTimeSpent" value="71942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -324,7 +393,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -354,13 +423,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -376,22 +438,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile_old" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest15.java" />
     <entry file="file://$PROJECT_DIR$/NewDockerSelenium.iml" />
     <entry file="file://$PROJECT_DIR$/testrun/docker-compose.yaml" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -404,13 +453,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/healthcheck.sh" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -432,30 +474,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sanity.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest19.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest11.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -463,24 +483,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="408">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/Sanity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/healthcheck.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="833">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -488,6 +501,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sanity/LoginTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/healthcheck.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
