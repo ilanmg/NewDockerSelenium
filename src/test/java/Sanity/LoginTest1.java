@@ -14,8 +14,8 @@ public class LoginTest1 extends BaseTest {
     public void log__in() throws InterruptedException {
 		LoginPage loginPage = new LoginPage(driver);
 		//loginPage.goTo();
-        loginPage.clickSignInBtn();
-        loginPage.setEmail("ilanmg@artlist.io");
+        //loginPage.clickSignInBtn();
+       // loginPage.setEmail("ilanmg@artlist.io");
         loginPage.setPassword("Tomido1212*");
         loginPage.clickLoginBtn();
 
