@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Sanity]" parallel="tests">
+  <test thread-count="5" verbose="0" name="Sanity10(failed)" parallel="tests">
+    <classes>
+      <class name="Sanity.LoginTest10">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="quitDriver"/>
+          <include name="log__in"/>
+        </methods>
+      </class> <!-- Sanity.LoginTest10 -->
+    </classes>
+  </test> <!-- Sanity10(failed) -->
+</suite> <!-- Failed suite [Sanity] -->
