@@ -13,7 +13,7 @@ public class LoginTest1 extends BaseTest {
 	@Test(groups ={"Sanity"}, description= "the script should perform a login by giving the Email, Pass, and click the login button")
     public void log__in() throws InterruptedException {
 		LoginPage loginPage = new LoginPage(driver);
-		loginPage.goTo();
+		//loginPage.goTo();
         loginPage.clickSignInBtn();
         loginPage.setEmail("ilanmg@artlist.io");
         loginPage.setPassword("Tomido1212*");
